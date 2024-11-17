@@ -2,7 +2,6 @@
  - 🌍 Nomad
  - 💻 AI Developer
  - 🛠 Full Stack Engineer
- - 🐳 Author of Free AI Docker
 
 <!---
 NoBugHero/NoBugHero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
